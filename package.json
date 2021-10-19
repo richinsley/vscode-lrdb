@@ -1,9 +1,9 @@
 {
-	"name": "lrdb",
-	"displayName": "LRDB",
+	"name": "tlrdb",
+	"displayName": "TLRDB",
 	"description": "Lua Remote DeBugger",
-	"version": "0.3.4",
-	"publisher": "satoren",
+	"version": "1.0.0",
+	"publisher": "johnnylocust",
 	"engines": {
 		"vscode": "^1.17.0",
 		"node": "^7.4.0"
@@ -20,10 +20,10 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/satoren/vscode-lrdb.git"
+		"url": "https://github.com/richinsley/vscode-lrdb.git"
 	},
 	"bugs": {
-		"url": "https://github.com/satoren/vscode-lrdb/issues"
+		"url": "https://github.com/kapecp/vscode-lrdb/issues"
 	},
 	"main": "./out/src/extension.js",
 	"scripts": {
@@ -34,7 +34,7 @@
 	},
 	"devDependencies": {
 		"typescript": "2.5.2",
-		"vscode": "1.1.10",
+		"vscode": "1.1.37",
 		"vscode-nls-dev": "2.1.5",
 		"vscode-debugadapter-testsupport": "^1.24.0",
 		"vscode-debugprotocol": "1.24.0",

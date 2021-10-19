@@ -1,5 +1,8 @@
 # Change Log
 
+## [1.0.0] - 19-Oct-2021
+- Forked from https://github.com/kapecp/vscode-lrdb
+- updated devDependencies
 
 ## [Unreleased]
 ## [0.3.4] - 2019-03-16
